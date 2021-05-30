@@ -1,0 +1,3 @@
+# ignore xcode project files
+*.xcodeproj/
+DerivedData/
