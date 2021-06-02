@@ -1,0 +1,7 @@
+rogers sam 1111 90000
+farham sam 2222 80000
+atkinson elliott 3333 70000
+decaro alex 4444 60000
+johnson sid 5555 50000
+squirrel rocky 6666 10000
+moose bullwinkle 7777 20000

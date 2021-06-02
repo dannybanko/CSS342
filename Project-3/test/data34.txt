@@ -1,0 +1,9 @@
+mouse mickey 8654 80000
+banko danny 6666 90000
+thaut kealyn 7777 90000
+ghost casper 8888 10000
+rella barbara 9999 20000
+bear bertha 1111 30000
+aaaaa aa 2222 1000
+zzzzz zz 1111 2000
+

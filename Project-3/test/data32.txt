@@ -1,0 +1,5 @@
+mouse minnie 9999 99900
+dubuque james 8888 100000
+dubuque sally 7777 100000
+banko lily 6666 10000
+banko danny 6868 10000
